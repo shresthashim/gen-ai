@@ -1,0 +1,26 @@
+{
+  "name": "gen-ai",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shresthashim/gen-ai.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shresthashim/gen-ai/issues"
+  },
+  "homepage": "https://github.com/shresthashim/gen-ai#readme",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "openai": "^4.100.0"
+  }
+}
